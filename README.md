@@ -10,6 +10,8 @@ Despite the deadline being over, we are still actively working on our project to
 - **Security Implementation**: Prioritizing security measures to safeguard sensitive data and mitigate potential vulnerabilities.
 - **Performance Optimization**: Fine-tuning the project to ensure optimal performance and efficiency.
 
+[Figma link](https://www.figma.com/file/CGmzfE5IKUGG5TVYMfQYo3/ConQuest?type=design&node-id=0%3A1&mode=design&t=og6Kf9Wnjh0ukEu6-1)
+
 We appreciate your patience and understanding as we strive to deliver a high-quality, reliable solution. For any concerns or inquiries, please feel free to contact us at [pratyushkumar0308@gmail.com](mailto:pratyushkumar0308@gmail.com) or [divyvinayak@gmail.com](mailto:divyvinayak@gmail.com).
 
 Stay tuned for updates on our progress.
